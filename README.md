@@ -14,6 +14,8 @@ Hi👋, My name is Anjeel Chaudhary. I'm Software Engineering Student👨‍💻
 <br><br>
 
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+	
+![snake gif](https://github.com/Anjeelchaudhary/Anjeelchaudhary/blob/output/github-contribution-grid-snake.gif)
      
 	
   <p align="center">
