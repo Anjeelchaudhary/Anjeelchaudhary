@@ -1,15 +1,13 @@
-### Hi there 👋
-<h1 align="center">Hello there, I am Anjeel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+
+<h1 align="center">Hello There, I am Anjeel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+	
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SoftWare+Engineering+Student;Junior+at+Flutter+Developer&center=true&width=500&height=50"></a>
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 70px>  About me
-
-
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 	
-<br><br>
+<p align="left">
 Hi👋, My name is Anjeel Chaudhary. I'm Software Engineering Student👨‍💻 at NCIT (Nepal College Of IT) .These days I'm learning  & deloping apps with flutter. 
 <br><br>
 
