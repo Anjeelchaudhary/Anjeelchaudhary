@@ -16,8 +16,7 @@ Hi👋, My name is Anjeel Chaudhary. I'm Software Engineering Student👨‍💻
 
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 	
-
-     
+![snake svg](https://github.com/Anjeelchaudhary/Anjeelchaudhary/blob/output/github-contribution-grid-snake.svg)
 	
   <p align="center">
 	<a href="mailto:chaudharyanjeel@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
