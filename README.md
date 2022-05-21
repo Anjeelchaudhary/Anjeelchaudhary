@@ -6,14 +6,17 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SoftWare+Engineering+Student;Junior+at+Flutter+Developer&center=true&width=500&height=50"></a>
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 70px>  About me
+
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 	
-<p align="left">
+<br><br><p align="left">
 Hi👋, My name is Anjeel Chaudhary. I'm Software Engineering Student👨‍💻 at NCIT (Nepal College Of IT) .These days I'm learning  & deloping apps with flutter. 
 <br><br>
 
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 	
-![snake gif](https://github.com/Anjeelchaudhary/Anjeelchaudhary/blob/output/github-contribution-grid-snake.gif)
+
      
 	
   <p align="center">
