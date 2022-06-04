@@ -11,7 +11,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 	
 <br><br><p align="left">
-Hi👋, My name is Anjeel Chaudhary. I'm Software Engineering Student👨‍💻 at NCIT (Nepal College Of IT) .I am interested in web_devlopment currentyly I am designnig a web. 
+Hi👋, My name is Anjeel. I'm Software Engineering Student👨‍💻 at NCIT (Nepal College Of IT) .I am interested in web_devlopment , currently I am learning and designnig a web. 
 <br><br>
 
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50px"> Connect with me
