@@ -1,24 +1,34 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35">, I'm Anjeel</h1>
+<h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<h1 align="center">Hello There, I am Anjeel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35"></h1>
+- 🔭 I’m currently learning working on small project [professional CSS](https://github.com/Anjeelchaudhary/CssPractise)
 
-	
+- 🌱 I’m currently learning **intermediate level on webDevlopment**
 
+- 👯 I’m looking to **Js-project**
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
+- 🤝 I’m looking for help with **Backend devlopment**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Anjeelchaudhary](https://github.com/Anjeelchaudhary)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-	
-<br><br><p align="left">
-Hi👋, My name is Anjeel. I'm Software Engineering Student👨‍💻 at NCIT (Nepal College Of IT) .I am interested in web_devlopment , currently I am learning and designnig a web. 
-<br><br>
+- 💬 Ask me about **HTML,CSS**
 
- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50px"> Connect with me
-	
+- 📫 How to reach me **chaudharyanjeel@gmail.com**
+
+- ⚡ Fun fact **I think I am introvert**
+
+<h3 align="left">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50px">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/anjeelchaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anjeelchaudhary" height="30" width="40" /></a>
+<a href="https://twitter.com/anjeeltharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjeeltharu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjeel chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjeel chaudhary" height="30" width="40" /></a>
+<a href="https://fb.com/an zeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="an zeel" height="30" width="40" /></a>
+<a href="https://instagram.com/anjeel.191736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjeel.191736" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/an jeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="an jeel" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
 ![snake svg](https://github.com/Anjeelchaudhary/Anjeelchaudhary/blob/output/github-contribution-grid-snake.svg)
-	
-  <p align="center">
-	<a href="mailto:chaudharyanjeel@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Anjeelchaudhary"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-        <a href="https://www.facebook.com/an.zeel.75"><img src="https://img.shields.io/badge/facebook-%23181717.svg?style=plastic&logo=facebook&logoColor=white" alt="facebook"/></a>
-         <a href="https://www.instagram.com/anjeel.191736/?hl=en"><img src="https://img.shields.io/badge/instagram-%23181717.svg?style=plastic&logo=instagram&logoColor=white" alt="instagram"/></a>
