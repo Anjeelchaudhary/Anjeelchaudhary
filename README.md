@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **chaudharyanjeel@gmail.com**
 
-- ⚡ Fun fact **I think I am introvert**
-
 <h3 align="left">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50px">Connect with me:</h3>
 <p align="left">
