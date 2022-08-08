@@ -1,17 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35">, I'm Anjeel</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🔭 I’m currently learning working on small project [professional CSS](https://github.com/Anjeelchaudhary/CssPractise)
+- 🌱 I’m currently learning **java with Data Structure & Algorithm**
 
-- 🌱 I’m currently learning **intermediate level on webDevlopment**
+- 👯 I’m looking to **Java Projects and internship**
 
-- 👯 I’m looking to **Js-project**
-
-- 🤝 I’m looking for help with **Backend devlopment**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Anjeelchaudhary](https://github.com/Anjeelchaudhary)
-
-- 💬 Ask me about **HTML,CSS**
+- 🤝 I’m looking for help with **Data Structure & Algorithms**
 
 - 📫 How to reach me **chaudharyanjeel@gmail.com**
 
