@@ -8,6 +8,3 @@
 - 🤝 I’m looking for help with **Data Structure & Algorithms**
 
 - 📫 How to reach me **chaudharyanjeel@gmail.com**
-
-
-![snake svg](https://github.com/Anjeelchaudhary/Anjeelchaudhary/blob/output/github-contribution-grid-snake.svg)
