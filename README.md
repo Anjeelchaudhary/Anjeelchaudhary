@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **java with Data Structure & Algorithm**
 
-- 👯 I’m looking to **internship**
+- 👯 I’m looking for **internship**
 
 - 🤝 I’m looking for help with **Data Structure & Algorithms**
 
