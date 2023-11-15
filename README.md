@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35">, I'm Anjeel</h1>
 <h3 align="center">A perseverance programmer from Nepal</h3>
-<img align='right' src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="230">
-<p><em>Studying Software Enginnering at <a href="https://ncit.edu.np">NCIT</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Contact me at <a href="https://www.chaudharyanjeel@gmail.com">mail</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+<p><em>Studying Software Enginnering at <a href="https://ncit.edu.np">NCIT</a></br>Contact me at <a href="https://www.chaudharyanjeel@gmail.com">mail</a>
 </em></p>
 </em></p>
 
